@@ -1,0 +1,11 @@
+C:\Test training\c sharp traininig\c sharp traininig\bin\Debug\netcoreapp2.0\c sharp traininig.deps.json
+C:\Test training\c sharp traininig\c sharp traininig\bin\Debug\netcoreapp2.0\c sharp traininig.runtimeconfig.json
+C:\Test training\c sharp traininig\c sharp traininig\bin\Debug\netcoreapp2.0\c sharp traininig.runtimeconfig.dev.json
+C:\Test training\c sharp traininig\c sharp traininig\bin\Debug\netcoreapp2.0\c sharp traininig.dll
+C:\Test training\c sharp traininig\c sharp traininig\bin\Debug\netcoreapp2.0\c sharp traininig.pdb
+C:\Test training\c sharp traininig\c sharp traininig\obj\Debug\netcoreapp2.0\c sharp traininig.csprojResolveAssemblyReference.cache
+C:\Test training\c sharp traininig\c sharp traininig\obj\Debug\netcoreapp2.0\c sharp traininig.csproj.CoreCompileInputs.cache
+C:\Test training\c sharp traininig\c sharp traininig\obj\Debug\netcoreapp2.0\c sharp traininig.AssemblyInfoInputs.cache
+C:\Test training\c sharp traininig\c sharp traininig\obj\Debug\netcoreapp2.0\c sharp traininig.AssemblyInfo.cs
+C:\Test training\c sharp traininig\c sharp traininig\obj\Debug\netcoreapp2.0\c sharp traininig.dll
+C:\Test training\c sharp traininig\c sharp traininig\obj\Debug\netcoreapp2.0\c sharp traininig.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZOopla automation test", "ZOopla automation test\ZOopla automation test.csproj", "{922B2F0E-A8DF-4431-BAF0-A0B12578043A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{922B2F0E-A8DF-4431-BAF0-A0B12578043A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922B2F0E-A8DF-4431-BAF0-A0B12578043A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922B2F0E-A8DF-4431-BAF0-A0B12578043A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922B2F0E-A8DF-4431-BAF0-A0B12578043A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71995779-F778-492B-8F87-F7D0698DEE7D}
+	EndGlobalSection
+EndGlobal
